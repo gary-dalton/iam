@@ -17,16 +17,24 @@ pandoc: pandoc -t html5 --standalone --section-divs --template=template_github.h
 
 ## Concept
 
-Intellamech has the purpose of creating intelligent autonomous mechatronics.
-We intend to build robots with programmable intelligence such that the robot
-will sense, plan, and act to reach its goals.
+Snowy is a autonomous snowblower. This project has a number of interesting
+challenges that include:
+
+- Power system
+- Navigation
+- Safety
+- Security
+- Sensing
+- Status alerting
+- Mechanical system
+- Snow removal process
+
 
 ## Status
 
 This project is in very early stage development. This means gathering data,
 reviewing literature, testing hypotheses, and building early concept-test
-prototypes. Once projects are clearly defined, separate repositories will be
-created for each.
+prototypes.
 
 ## Links
 

@@ -49,7 +49,7 @@ weed classification solutions have been developed with non-noisy background.
 The background has usually been soil, which means that the weeds are not closely
 mixed with other vegetation.
 
-See the document weed_identification.md for additional discussion
+See [weed_identification.md](weed_identification.md) for additional discussion
 
 ### 3 Weed ablation
 
@@ -58,7 +58,7 @@ return. Return may occur due to regrowth, new growth from seeds, or new growth
 from parts. There are four main approaches to ablation that include: mechanical,
 chemical, biological, or energy methods.
 
-See the document weed_ablation.md for additional discussion.
+See [weed_ablation.md](weed_ablation.md) for additional discussion.
 
 ### 4 Competition
 

@@ -3,7 +3,7 @@ title: Intellamech
 subtitle: Intelligent autonomous mechatronics
 author: Gary Dalton
 date: 24 November 2015
-license: Apache License, Version 2.0
+license: GNU General Public License, Version 2.0
 github:
   user: gary-dalton
   repo: iam
@@ -18,7 +18,7 @@ pandoc: pandoc -t html5 --standalone --section-divs --template=template_github.h
 ## Introduction
 
 Intellamech has the purpose of creating intelligent autonomous mechatronics.
-We intend to build robots with programmable intelligence such that the robot
+The intent is to build robots with programmable intelligence such that the robot
 will sense, plan, and act to reach its goals.
 
 ## Status

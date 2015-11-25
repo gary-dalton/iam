@@ -1,5 +1,5 @@
 ---
-title: Parts and Theory
+title: Parts
 subtitle: IAM Where to find stuff
 author: Gary Dalton
 date: 24 November 2015
@@ -13,7 +13,7 @@ css: stylesheets/stylesheet.css
 pandoc: pandoc -t html5 --standalone --section-divs --template=template_github.html index.md -o index.html
 ---
 
-# IAM Parts and Theory
+# IAM Parts
 
 ## Links
 - [Robotshop](http://www.robotshop.com/en/robot-parts.html)

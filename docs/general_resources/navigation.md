@@ -22,6 +22,7 @@ should not otherwise be considered a valid navigation method.
 
 ## Proposed
 
-Embed radio beacons into the field or along the path of the robot. Use the radio
-beacons to determine current location on a local map. Build the local map
-manually, using the embedded beacons and a lightweight wheeled marker.
+Embed waypoints into the field or along the path of the robot. Use the waypoints
+to determine current location on a local map. Build the local map
+manually, using the waypoints and a lightweight wheeled marker. The specific
+details of the waypoints needs further research.

@@ -45,8 +45,8 @@ More later
 ### 2 Weed identification
 
 This is an obvious classification problem. A quick search determined that most
-weed classification solutions have been developed with non-noisy background
-The background has usually been soil which means that the weeds are not closely
+weed classification solutions have been developed with non-noisy background.
+The background has usually been soil, which means that the weeds are not closely
 mixed with other vegetation.
 
 See the document weed_identification.md for additional discussion

@@ -21,6 +21,12 @@ Intellamech has the purpose of creating intelligent autonomous mechatronics.
 The intent is to build robots with programmable intelligence such that the robot
 will sense, plan, and act to reach its goals.
 
+## Documents
+
+- [General Resources](docs/general_resources)
+- [Snowy](docs/snowy)
+- [Weedy](docs/weedy)
+
 ## Status
 
 This project is in very early stage development. This means gathering data,

@@ -1,6 +1,6 @@
 ---
 title: Snowy
-subtitle: IAM snowblower bot
+subtitle: Intellamech snowblower bot
 author: Gary Dalton
 date: 24 November 2015
 license: GNU General Public License, Version 2.0

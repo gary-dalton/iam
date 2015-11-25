@@ -1,6 +1,6 @@
 ---
 title: Weed Ablation
-subtitle: IAM Weedy
+subtitle: Intellamech Weedy
 author: Gary Dalton
 date: 25 November 2015
 license: GNU General Public License, Version 2.0

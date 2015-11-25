@@ -1,6 +1,6 @@
 ---
 title: General Resources
-subtitle: IAM Parts and Theory
+subtitle: Intellamech
 author: Gary Dalton
 date: 24 November 2015
 license: Apache License, Version 2.0

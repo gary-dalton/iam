@@ -1,6 +1,6 @@
 ---
 title: Parts
-subtitle: IAM Where to find stuff
+subtitle: Intellamech Where to find stuff
 author: Gary Dalton
 date: 24 November 2015
 license: Apache License, Version 2.0

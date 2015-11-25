@@ -1,6 +1,6 @@
 ---
 title: Navigation
-subtitle: IAM
+subtitle: Intellamech
 author: Gary Dalton
 date: 25 November 2015
 license: GNU General Public License, Version 2.0

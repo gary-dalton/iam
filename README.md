@@ -15,6 +15,8 @@ pandoc: pandoc -t html5 --standalone --section-divs --template=template_github.h
 
 # Intellamech
 
+Intelligent Autonomous Mechatronics (IAM)
+
 ## Introduction
 
 Intellamech has the purpose of creating intelligent autonomous mechatronics.

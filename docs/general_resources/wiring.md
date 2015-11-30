@@ -18,5 +18,5 @@ pandoc: pandoc -t html5 --standalone --section-divs --template=template_github.h
 Mainly pointing to resources for now.
 
 - [Robot Electrical Power](http://www.superdroidrobots.com/shop/custom.aspx/robot-electrical-power-and-wiring/53/)
-
+- From [Dimension Engineering](http://www.dimensionengineering.com/)
 ![Regenerative current sink to battery](regen_current_sink.jpg)

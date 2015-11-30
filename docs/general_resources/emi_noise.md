@@ -18,7 +18,6 @@ pandoc: pandoc -t html5 --standalone --section-divs --template=template_github.h
 Mainly pointing to resources for now. Attenuating EMI noise is an important
 design consideration.
 
-- [Art and Science of Selecting Robot Motors](Art-and-Science-of-Selecting-Robot-Motors-Final.pdf)
 - [EMI, RFI, and Shielding Concepts](MT-095.pdf)
 - [Understanding and Eliminating EMI in Microcontroller Applications](snoa382.pdf)
 - [Noise Suppression Techniques](http://www.murata.com/en-us/products/emc/emifil/knowhow)

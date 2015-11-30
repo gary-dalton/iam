@@ -22,3 +22,4 @@ pandoc: pandoc -t html5 --standalone --section-divs --template=template_github.h
 - [NPC Robotics](http://hobby.npcrobotics.com/robotics-101/)
 - [SuperDroid Robotics](http://www.superdroidrobots.com/shop/item.aspx/sabertooth-dual-60a-motor-driver/1225/)
 - [Society of Robots](http://www.societyofrobots.com/mechanicsbasics.shtml)
+- [Art and Science of Selecting Robot Motors](Art-and-Science-of-Selecting-Robot-Motors-Final.pdf)

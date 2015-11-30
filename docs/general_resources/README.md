@@ -23,3 +23,5 @@ See the following for details:
 - [Navigation](navigation.md)
 - [Radar and ground penetrating radar](radar.md)
 - [Robot parts](parts.md)
+- [EMI noise](emi_noise.md)
+- [Wiring](wiring.md)

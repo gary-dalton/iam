@@ -46,3 +46,8 @@ implementations of their products. Have not heard back yet.
 
 - [Bespoon](http://bespoon.com/)
 - [ZEBRA SPORT SOLUTIONS](https://www.zebra.com/us/en/solutions/location-solutions/sports-tracking.html)
+
+## Other
+
++ [Distance measurement with radio waves](http://www.instructables.com/id/Distance-measurement-with-radio-waves/)
++ [Extreme Range Links: LoRa 868 / 900MHz SX1272 LoRa module for Arduino Waspmote and Raspberry Pi](https://www.cooking-hacks.com/documentation/tutorials/extreme-range-lora-sx1272-module-shield-arduino-raspberry-pi-intel-galileo/)
